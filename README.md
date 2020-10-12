@@ -34,3 +34,7 @@
 
 ## 参考
 chineseocr https://github.com/chineseocr/chineseocr
+
+
+## 2020 10 12 
+- fork原项目
